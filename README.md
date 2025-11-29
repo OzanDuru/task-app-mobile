@@ -2,10 +2,10 @@
 
 A full-stack task management application with Flask REST API backend and React Native frontend.
 
-<img width="1170" height="2532" alt="IMG_5760" src="https://github.com/user-attachments/assets/ae2e2e9a-3357-4d0d-8236-3269461152ff" />
-<img width="1170" height="2532" alt="IMG_5761" src="https://github.com/user-attachments/assets/46ac48ff-c162-49aa-bf20-92ab93ed6e61" />
-<img width="1170" height="2532" alt="IMG_5762" src="https://github.com/user-attachments/assets/e5b0bc9e-cba9-468e-9672-5be8a68bd3be" />
-<img width="1170" height="2532" alt="IMG_5763" src="https://github.com/user-attachments/assets/63111a0f-cd74-42f3-aa7a-05323135ea57" />
+<img width="350" height="2532" alt="IMG_5760" src="https://github.com/user-attachments/assets/ae2e2e9a-3357-4d0d-8236-3269461152ff" />
+<img width="350" height="2532" alt="IMG_5761" src="https://github.com/user-attachments/assets/46ac48ff-c162-49aa-bf20-92ab93ed6e61" />
+<img width="350" height="2532" alt="IMG_5762" src="https://github.com/user-attachments/assets/e5b0bc9e-cba9-468e-9672-5be8a68bd3be" />
+<img width="350" height="2532" alt="IMG_5763" src="https://github.com/user-attachments/assets/63111a0f-cd74-42f3-aa7a-05323135ea57" />
 
 
 ## 📋 Project Overview
